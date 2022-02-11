@@ -1,2 +1,4 @@
-# Project-final-version
-Search for clusters from data points
+Реализация проекта по поиску кластеров с помощью таких алгоритмов поиска как:
+  1) wave(или волновой) 
+  2) sptr 
+  3) hierarchy(иерархический)
