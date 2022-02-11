@@ -1,0 +1,16 @@
+﻿  cloud.cpp
+C:\project\ivan_clasters\cloud.cpp(13,29): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  field.cpp
+  Hierarchy.cpp
+  main.cpp
+  point.cpp
+  Sptr.cpp
+  user_interface.cpp
+C:\project\ivan_clasters\user_interface.cpp(391,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Wave.cpp
+  Создание кода...
+  project.vcxproj -> C:\project\ivan_clasters\project\x64\Debug\project.exe
